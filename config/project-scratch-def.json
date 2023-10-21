@@ -1,0 +1,17 @@
+{
+  "orgName": "Convert PersonAccounts",
+  "country": "US",
+  "edition": "Enterprise",
+  "description": "Basic org",
+  "hasSampleData": false,
+  "language": "en_US",
+  "features": [
+    "ContactsToMultipleAccounts",
+    "PersonAccounts"
+  ],
+   "settings": {
+        "accountSettings": {
+          "enableRelateContactToMultipleAccounts" : true
+        }
+    }
+}
